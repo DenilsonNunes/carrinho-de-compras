@@ -22,7 +22,7 @@
 ### Clonando o Repositório
 
 ```bash
-git clone https://github.com/DenilsonNunes/api-task](https://github.com/DenilsonNunes/carrinho-de-compras
+git clone https://github.com/DenilsonNunes/carrinho-de-compras
 ```
 ### Instalando as Dependências
 
