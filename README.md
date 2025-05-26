@@ -32,9 +32,15 @@ Projeto de um carrinho de compras simples, desenvolvido com o objetivo de pratic
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
 
-  
+2. Navegue para pasta principal
+   ```bash
+   cd carrinho-de-compas
+
+2. Instale as dependências:
+   ```
+   npm install
+
 <br/>
 
 ## Instalação
