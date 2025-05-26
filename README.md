@@ -2,6 +2,9 @@
 
 Projeto de um carrinho de compras simples, desenvolvido com o objetivo de praticar conceitos de front-end. Permite ao usuário adicionar, remover e atualizar a quantidade de produtos no carrinho, além de exibir o total da compra em tempo real. Ideal para aplicações de e-commerce ou para estudo de lógica de manipulação de estado e integração com APIs.
 
+![image](https://github.com/user-attachments/assets/39030224-7018-47b2-8a51-2e56f5fd875b)
+
+
 <br/>
 
 ## 🚀 Tecnologias e bibliotecas utilizadas
