@@ -4,9 +4,6 @@ Projeto de um carrinho de compras simples, desenvolvido com o objetivo de pratic
 
 <br/>
 
-![image](https://github.com/user-attachments/assets/2c1f1108-65e5-40f7-9ebf-87462e2355e4)
-
-
 ## 🚀 Tecnologias e bibliotecas utilizadas
 
 ### Bibliotecas de UI e Estilização
