@@ -38,16 +38,20 @@ Projeto de um carrinho de compras simples, desenvolvido com o objetivo de pratic
    cd carrinho-de-compas
 
 2. Instale as dependências:
-   ```
+   ```bash
    npm install
 
 <br/>
 
-## Executando o Projeto
+## ▶️ Executando o Projeto
 
 ### Em desenvolvimento
 
-```bash
-npm run dev
-```
+1. inicie o servidor de desenvolvimento do React:
+  ```bash
+  npm run dev
+
+2. Em outro terminal, nicie o servidor fake com o json-server (necessário para simular a API):
+
+
 
