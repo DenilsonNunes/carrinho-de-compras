@@ -23,7 +23,7 @@ Projeto de um carrinho de compras simples, desenvolvido com o objetivo de pratic
 
 <br/>
 
-## Pré-requisitos
+## ✅ Pré-requisitos
 
 - Node.js instalado
 - Git instalado
