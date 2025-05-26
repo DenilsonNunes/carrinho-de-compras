@@ -17,7 +17,14 @@ Projeto de um carrinho de compras simples, desenvolvido com o objetivo de pratic
 
 ### Simulação de API
 - **json-server** – simula uma API fake
-- 
+
+<br/>
+
+## Pré-requisitos
+
+- Node.js instalado
+- Git instalado
+  
 <br/>
 
 ## 📦 Instalação
@@ -27,12 +34,6 @@ Projeto de um carrinho de compras simples, desenvolvido com o objetivo de pratic
    git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
 
-<br/>
-
-## Pré-requisitos
-
-- Node.js instalado
-- Git instalado
   
 <br/>
 
