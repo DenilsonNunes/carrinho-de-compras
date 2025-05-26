@@ -50,8 +50,12 @@ Projeto de um carrinho de compras simples, desenvolvido com o objetivo de pratic
 1. inicie o servidor de desenvolvimento do React:
   ```bash
   npm run dev
+  ```
 
-2. Em outro terminal, nicie o servidor fake com o json-server (necessário para simular a API):
-
+2. Em outro terminal, inicie o servidor fake com o json-server (necessário para simular a API):
+  ```bash
+  json-server --watch db.json
+  ```
+  
 
 
